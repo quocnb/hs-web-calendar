@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/webCalendarSpring/Main.java
+    visible: true
+    learner_created: false
+  - name: test/WebCalendarSpringTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: false
+    learner_created: false
+  - name: src/webCalendarSpring/EventResponse.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/GlobalExceptionHandler.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/EventController.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/Event.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/EventRepository.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/EventService.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/396/stages/2343/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 16 Jun 2024 23:31:03 UTC"
+record: 3
